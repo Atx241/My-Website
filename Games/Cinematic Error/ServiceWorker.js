@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BLACK BELT-0.1";
 const contentToCache = [
-    "Build/Cinematic Error.loader.js",
-    "Build/Cinematic Error.framework.js",
-    "Build/Cinematic Error.data",
-    "Build/Cinematic Error.wasm",
+    "Build/BB Builds.loader.js",
+    "Build/BB Builds.framework.js",
+    "Build/BB Builds.data",
+    "Build/BB Builds.wasm",
     "TemplateData/style.css"
 
 ];
